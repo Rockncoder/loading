@@ -1,0 +1,1 @@
+This is a tutorial app which shows how to use Ionic's $ionicLoading to display dismiss-able messages to the user.
